@@ -14,7 +14,7 @@ Symbol  |  used in
 :------:|:----------------------------------------
  `#`    |  Headers, issue references.
  `*`    |  Emphasis, horizontal rule, lists, task list.
- `\``   |  inline code, fenced code blocks, escape.
+ `` ` ``|  inline code, fenced code blocks, escape.
  `\`    |  escape.
  `>`    |  block quotes.
  `@`    |  user name mentions.
