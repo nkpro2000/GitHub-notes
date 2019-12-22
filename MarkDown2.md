@@ -26,7 +26,7 @@ Symbol  |  used in
  `:`    |  alignment in table, emoji.
  `=`    |  ~~Headers (only `<h1>`).~~
  `_`    |  ~~Emphasis, horizontal rule.~~
- '+'    |  ~~list.~~
+ `+`    |  ~~list.~~
  
 > use space after `#` for headers
 >> otherwise it is considered as issue or #letters
