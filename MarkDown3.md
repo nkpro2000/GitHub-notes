@@ -27,7 +27,7 @@ in comment box in github but it can't be rendered in markdown file.
 <br>
 
 <details open>
-<summary>Some <strong>superheroes</strong> don't really use secret identities to fight <i>evil</i>  
+<summary>Some <strong>superheroes</strong> don't hide their identities to fight <i>evil</i>  
 <!-- First line in summary and after summary don't support MD -->
 
 Like ***Iron**Man*, **Hulk**, *Thor*
